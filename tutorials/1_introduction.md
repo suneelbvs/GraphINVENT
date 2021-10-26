@@ -15,7 +15,7 @@ The example dataset is located in [../GraphINVENT/data/gdb13_1K/](../GraphINVENT
 
 The last three points of information must be included in the submission script, as well as any additional parameters and hyperparameters to use for the training job.
 
-A sample submission script [submit.py](../submit.py) has been provided. Begin by modifying the submission script to specify where the dataset can be found and what type of job you want to run. For training on the example set, the settings below are recommended:
+A sample submission script [submit.py](../submit.py) has been provided [has been renamed to submit-pre-training.py]. Begin by modifying the submission script to specify where the dataset can be found and what type of job you want to run. For training on the example set, the settings below are recommended:
 
 ```
 submit.py >
