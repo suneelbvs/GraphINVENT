@@ -50,7 +50,7 @@ If you spot any issues (big or small) since the update, please create an issue o
 For detailed guides on how to use GraphINVENT, see the [tutorials](./tutorials/).
 
 ## Examples
-An example training set is available in [./data/gdb13_1K/](./data/gdb13_1K/). It is a small (1K) subset of GDB-13 and is already preprocessed.
+An example training set is available in [./data/gdb13_1K/](.data/pre-training/gdb13_1K/). It is a small (1K) subset of GDB-13 and is already preprocessed.
 
 ## Contributors
 [@rociomer](https://www.github.com/rociomer)
